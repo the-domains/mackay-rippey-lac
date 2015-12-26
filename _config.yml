@@ -1,0 +1,28 @@
+name: Mackay Rippey LAc
+favicon: null
+layout_spectrum: 0.8714772702660412
+typography_spectrum: 0.7359181623905897
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.6385728195309639
+  lightness: 0.7045966556761414
+  saturation: 0.14825781248509884
+  rhythmicContrast: 0.2490123249590397
+purpose: []
